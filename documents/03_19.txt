@@ -1,0 +1,24 @@
+03-19-2013
+
+-Finalized buget cuts
+--Less expensive motors
+
+-Do we need the micro controller?
+--Arm can be run using radio waves and DC gear motors
+---Micro controllers are bulky to be added o the copter, and a bit overpowered
+---No micro controller simplifies design
+--Microcontrollers can be used to enforce bounds
+---No burning out motors
+---Enforce arm length
+---Can also work LED control
+
+-Final decisions
+--Keep micro-controller
+--Battery charger can be borrowed
+
+-Funding
+--Elliot and Kora went to find the woman in charge of funding, were told to come back later
+--Hess needed for advice on motors
+
+Priorities:
+	Possibly get a group picture for Snapshot day?

@@ -1,0 +1,22 @@
+03-28-2013 - Programming Meeting between Cable and Theora
+
+-Successfully downloaded and ran a blinking LED program
+
+-Met with Rinker
+--Got LEDs to borrow and test with
+--Need: Resistors
+--He is willing to have more meetings
+
+-Parts List
+--High powered LEDs: white high powered LEDs
+--Resistors
+--Bread board
+--transistor
+--9v power supply
+
+-Meeting with Rinker: 4:30 Monday, 4-1-2013
+
+Priorities:
+	Code the micro controller for high power LEDs
+	PWM signals
+	Get Windows 7 on all laptops

@@ -1,0 +1,17 @@
+02-05-2013
+
+-Team Meeting took place in JEB 1
+-Immediately split into arm and copter subgroups
+--Copter
+---Still unsure about display
+---cutting from top, so need two cameras to switch between.
+--Arm
+---possible motors for clipping: servos, compressed air
+---Gear rack for lowering lattice work arm?
+---Possibility of air-controlled pnuematic pump
+
+
+Priorities:
+	continue finding parts
+	Gather test branches for force testng
+	Pnuematic pump system research

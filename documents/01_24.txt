@@ -1,0 +1,14 @@
+01-24-2013
+
+-Initial meeting goal: Write up team contract.
+-Spoke on team use case scenarios
+--Client lack of communcation, etc.
+-Team contract drawn up
+--Team name to be decided later
+--Basic discussion involved much surrounding communication
+--Likely to be subgroups within the six person team
+-Possible team communication aid on basecamp?
+
+Prioroties:
+	meet with client - full list of requirements needed
+

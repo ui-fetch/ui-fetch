@@ -1,0 +1,30 @@
+02-26-2013
+
+-budget request in
+
+-Demo'd Dr. Kavanagh's laptop
+--Bad glare in sunlight, possibly build shadow box
+
+-Website
+--sorted out repo issue, got web files added
+
+-Arm Team
+--Low voltage batteries desired
+
+-Batteries
+--Discharge warning?
+
+-Possibility of getting cages for propellers?
+
+-EXPO
+--Need to register by Friday, March 6
+
+-Snapshot day discussed
+--Putting together poster on 3-3-2013
+
+
+Priorities:
+	get original SSRS/SSDD templates
+	get web pages up, make milestones for snapshot day
+	adapt templates to current design
+

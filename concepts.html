@@ -1,0 +1,226 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>Team F.E.T.C.H. Project Page</title>
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+
+<body>
+
+  <div id="header">
+    <h1><a href="index.html">Team F.E.T.C.H.</a></h1>
+  </div>
+
+  <div id="menu">
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="bios.html">Team Bios</a></li>
+      <li><a href="learning.html">Problem Definition</a></li>
+      <li><a href="concepts.html">Concepts</a></li>
+      <li><a href="solution.html">Design</a></li>
+      <li><a href="testing.html">Testing</a></li>
+      <li><a href="conclusions.html">Conclusions</a></li>
+      <li><a href="documents.html">Documents</a></li>
+    </ul>
+  </div>
+
+  <hr />
+
+  <div id="page">
+
+    <div id="content">
+      <div class="post">
+        <h2 class="title">Functional Requirements</h2>
+        <div class="entry">
+          <ul>
+            <li> Payload: Ability to carry small foliage samples (approx 20cm in length, 
+                 2.5cm in width)</li>
+            <li>Transportation: Must be able be carried in a common automotive vehicle.</li>
+            <li>Location: Must operate in remote areas that may have dense or 
+                sparse tree populations</li>
+            <li>Battery time: Between 3 and 4 hours, if at all possible.</li>
+            <li>Webcam: extremely desireable, in order to see what branches the$
+            <li>Range minimum: 4 meters</li>
+            <li>Range maximum: 50-75 meters+ </li>
+            <li>Number of operators: 1</li>
+            <li>Training: 2 hours maximum for an operator.</li>
+            <li>Flight times: Able to fly in low-to-no light conductions</li>
+         </ul>
+         <p>
+         </p>
+        </div>
+      </div>
+
+      <div class="post">
+        <h2 class="title">Use Case Diagram of System</h2>
+        <div class="entry">
+          <br/><img src="images/usecasediagram.jpg"/><br/>
+        </div>
+      </div>
+
+      <div class="post">
+        <h2 class="title">Beginning Project Concepts</h2>
+        <div class="entry">
+	<br/>
+          <h3 class="title">The Flying Device</h3>
+          <div class="entry">
+            <ul>
+              <li>Helicopter - For weight management and power conservation
+                               the team originally considered using a simple
+                               helicopter design. However, high altitudes, 
+                               wind conditions, and payload weight might
+                               upset the balance of the single propellor.
+              </li>
+              <li>Quadcopter - The strength of the quadcopter lies in its
+                                cross design, which provides a central point 
+                                of strength in the middle. With four propellors,
+                                it also is easier to maintain balance in flight. 
+              </li>
+              <li>Octocopter - Octo-copters are also well balanced, as there 
+                                are many propellors to correct any problems during
+                                flight. They are also generally heavier than other flight device,
+                                due to the added motors. They are also more expensive. 
+              </li>
+            </ul>
+          </div>
+
+          <h3 class="title">The Arm</h3>
+          <div class="entry">
+            <ul>
+              <li>Hinge extension - This would involve the arm being a single length 
+                                    that was lowered from a hinge joint on the flight device 
+                                    This is a simple, efficient design, that 
+                                    can be very light weight. It is also fragile, 
+                                    and has the possibility of throwing off the balance
+                                    of the flight device during extension.
+              </li>
+              <li>Telescoping extension - Using this method, the arm would consist of 
+                                          layers of tubing nested within one another,
+                                          which extended in a manner similar to a telescope.
+                                          This is a lightweight mechanism, but also fragile and 
+                                          complicated.
+              </li>
+              <li>Lattice work - This mechanism consists of a latticework arm framework, 
+                                 controlled by a gear rack. As this gear rack decremented or
+                                 incremented, the ends of the framwork would contract or expand,
+                                 with would in turn retract or extend the arm. This design is 
+                                 heavier, but also more sturdy. It also provides easy length variability. 
+              </li>
+            </ul>
+            <br/>
+            <ul>
+              <li>
+                  Extend from side - The idea behind this design would be that the arm would 
+                                     extend to one side of the flight device, which would in turn fly
+                                     next to a tree. This is easy to understand, but will likely
+                                     be detrimental to the flight device balance.
+                                     <br/><img src="images/armtake1.jpg"/>
+
+              </li>
+              <li>
+                  Extend from bottom, then side - To correct for the possible weight imbalance, and
+                                                  provide more distance between propellors 
+                                                  and tree limbs, this design would drop below the flight device. 
+                                                  Once it had extended a certain amount, it would then reach
+                                                  out sideways towards the tree. This is a more functional design,
+                                                  but there exists a problem in different branch angles. 
+                                                  <br/><img src="images/armtake2.jpg"/>
+
+              </li>
+              <li>Extend straight down - This design would optimize both balance and branch-cutting angle. 
+                                         By extending straight down from the flying device, it could easily 
+                                         cut branches. However, if the flight device looses control, 
+                                         the arm will be more likely to hit the tree it is 
+                                         sampling. In this case, it will probably break.
+                                         <br/><img src="images/armtake3.jpg"/>
+              </li>
+            </ul>
+          </div>
+
+          <h3 class="title">The Cutting Attachment</h3>
+          <div class="entry">
+            <ul>
+              <li>Saw - This method would see the use of a small saw in detaching
+                        sun foliage branches from the tree. Miniature saws provide
+                        quick cutting motion, and are easy to replace if damaged.
+                        On the other hand, the teeth of the saw might get caught 
+                        in the branch and upset the balance of the flight device.
+                        <br/><img src="images/saw.jpg"/>
+
+              </li>
+              <li>Shears - Using shears would require them to be mounted at the end
+                           of the arm attachment, and operated using the force of some separate 
+                           mechanism. This provides a steady cutting force, provided that the
+                           shears are sharp. There is also the possibility of being able 
+                           to maintain grip of the sample branch. There is the opportunity for
+                           rusting, though, and shears are far heavier than saws. 
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="post">
+        <h2 class="title">Concept Selection Process</h2>
+        <div class="entry">
+        <br/>
+          <h3 class="title">The Flight Device</h3>
+          <div class="entry">
+            <p>
+               In the final design concept, a quadcopter was chosen. Functionally, this is because 
+               a quadcopter provides the most balance with the least amount of weight. Economically,
+               it is also the most affordable, stable structure that Team FETCH can afford. 
+            </p>
+          </div>
+          <h3 class="title">The Arm</h3>
+          <div class="entry">
+            <p>
+               A lattice-work arm extending straight below the quadcopter was decided on. Though it 
+               is slightly heavier than other design possibilities, it is also the least fragile and 
+               easiest to fix. Extending straight down will also give the propellors a wide berth in their
+               operation, which is a good safety feature for the quadcopter hardware.
+            </p>
+          </div>
+          <h3 class="title">The Cutting Attachment</h3>
+          <div class="entry">
+            <p>
+               Shears, specifically cut-and-hold pruners, were the chosen solution for collecting branch samples. 
+               This is because they provide a steady, easily controlled cutting motion that saw blades cannot quite
+               achieve. Cut-and-hold shears also come with an added plastic attachment that provides the operator with 
+               the ability to maintain their grip on the branch samples for easy collection.
+               <br/><img src="images/shears.jpg"/>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="post">
+        <h2 class="title">The Selected Concept: The Foliage Extracting Tele-Controlled Helicopter</h2>
+        <div class="entry">
+          <ul>
+            <li>This image was created in CAD, and represents the overall concept design of the FETCH Project.
+                For more details, please navigate to the "Design" page.</li>
+          </ul>
+          <img src="images/FETCHDesign.jpg"/>
+        </div>
+      </div>
+
+    </div> <!-- end #content -->
+
+    <div style="clear: both;">&nbsp;</div>
+
+  </div>  <!-- end #page -->
+
+  <hr />
+
+  <div id="footer">
+    <p>(c) 2013 University of Idaho. Design inspired by the <a href="http://www.freecsstemplates.org/preview/stargazer">Stargazer Template</a>.</p>
+  </div>
+
+</body>
+
+</html>

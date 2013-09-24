@@ -1,0 +1,53 @@
+01-29-2013
+
+-Basic introductions
+- Katy Kavanagh 
+-- Professor in CNR
+-- Study processes that are occurring in the Bio-physical realm
+--- To gather the data that she needs, she needs sophisticated instrumentation
+--- Works in challenging locations, watches new sensors and technology for possibility of using in bio-physical realm
+--- Detecting climate change
+-- Finney hall office
+
+- General overview
+-- Hundred feet tall trees, need to grab .sun-foliage.
+-- Difference between foliage at the top and foliage at the bottom
+--- Maximum sun exposure
+-- Current options
+--- Canopy crane, full sized building crane in order to reach the top
+--- Get a tree-climber
+--- Shotgun
+
+- Our project
+-- Sample definition
+-- Size of device
+-- Closeness of trees
+-- Ability to fly at night
+-- Webcam
+-- Length of battery life
+-- Range?
+-- How many operators?
+-- Just clipping or clipping and grabbing?
+-- Ease of operation
+-- Budget range
+-- Repair can be taught as part of training.
+-- Common tree species
+-- Test bed
+-- Meetings schedule with Katy
+-- Dr. Hess
+
+- Rest of the meeting
+- Money
+--Elliot and Kora
+-- Any rules about shipping?
+- Web site maintenance
+-- Theora and Cable
+
+Priorities:
+	scout parts
+	put together a budget
+	write budget proposal
+	initial design
+
+Thurs meeting: 2:30 - first pass designs
+

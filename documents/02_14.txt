@@ -1,0 +1,23 @@
+02-14-2013
+
+-Arm subgroup meeting: 2:30
+
+-Force measurements
+--Force meter stolen from physics department
+--Need to find another option
+
+-Force cutting
+--Pnuematic pump with air is too difficult
+--C02 possible
+--Eric needs to research pnuematics
+
+-Arm extension
+--Linear stepper motor might be better than gears
+---Gear design terminated
+
+-Email from Dr. Kavanagh
+--Laptop is available
+
+Priorities:
+	Research pnuematic pumps
+	Research pnuematics

@@ -1,0 +1,28 @@
+02-19-2013
+
+-Brian brought a micro controller bread board to examine
+
+-Web pages
+--figure out how to upload webpages to server
+--look into bluegryffin IDE
+--make a code repository for webpages and microcontroller c-code
+
+-camera
+--device side: two cameras, one output (switch)
+--client side: laptop (hopefully) with plug and play module
+
+-Force measurements
+--Jerry rig weights on cutters?
+
+-budget
+--need to submit memo
+
+-Documentation
+--Cable will talk to Professor Bolden about clean SSRS/SSDD copy
+
+-Cutting
+--Eric to research CO2
+--Kora to research linear stepper motors
+
+Priorities:
+	portfolio requirements, poster requirements, webpage requirements

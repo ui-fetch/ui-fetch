@@ -1,0 +1,15 @@
+03-18-2013
+
+-Budget Refinement
+--Budget awarded = $1350 ($150 under)
+---Cut number of batteries
+---Not ordering battery charger
+---Possibly get cheaper microcontroller?
+----Order this first, so that CS Majors can work on it
+---Motor calculations? Do we need these motors specifically?
+
+-Began writing new budget list
+--Misc funds added for things we haven't though about yet
+
+Priorities:
+	Get things ordered

@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>Team F.E.T.C.H. Project Page</title>
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+
+<body>
+
+  <div id="header">
+    <h1><a href="index.html">Team F.E.T.C.H.</a></h1>
+  </div>
+
+  <div id="menu">
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="bios.html">Team Bios</a></li>
+      <li><a href="learning.html">Problem Definition</a></li>
+      <li><a href="concepts.html">Concepts</a></li>
+      <li><a href="solution.html">Design</a></li>
+      <li><a href="testing.html">Testing</a></li>
+      <li><a href="conclusions.html">Conclusions</a></li>
+      <li><a href="documents.html">Documents</a></li>
+    </ul>
+  </div>
+
+  <hr />
+
+  <div id="page">
+    
+    <div id="content">
+      
+      <div class="post">
+        <h2 class="title">Force Measurements</h2>
+        <div class="entry">
+            <p>
+	      Force measurements were done to determine how powerful
+	      the clipping motors need to be. Need to be able to cut
+	      at max a 1 inch diameter branch.
+	    </p>
+            <p></p>	  
+        </div>
+      </div>
+
+      <div class="post">
+        <h2 class="title"></h2>
+        <div class="entry">
+          <ul>
+            <li>Red line indicates cutting point for consistency</li>
+          </ul>
+          <br />
+          <img src="images/force_measurement/0.JPG" />
+        </div>
+      </div>
+
+      <div class="post">
+        <h2 class="title"></h2>
+        <div class="entry">
+          <ul>
+            <li>Bar was marked every 5 cm </li>
+            <li>Weights were suspended from the bar </li>
+          </ul>
+          <br />
+          <img src="images/force_measurement/2.JPG" />
+        </div>
+      </div>
+
+      <div class="post">
+        <h2 class="title"></h2>
+        <div class="entry">
+          <ul>
+            <li>Each selected weight was moved outward along the intervals until the branch was cut </li>
+          </ul>
+          <br />
+          <img src="images/force_measurement/4.JPG" />
+        </div>
+      </div>
+
+      <div class="post">
+        <h2 class="title"></h2>
+        <div class="entry">
+          <ul>
+            <li>Ended up with a 1 liter and 0.5 liter bottle, resulting in 1.5 kg to cut a 1 inch branch</li>
+          </ul>
+          <br />
+          <img src="images/force_measurement/7.JPG" />
+        </div>
+      </div>
+
+    </div>  <!-- end #content -->
+
+    <div style="clear: both;">&nbsp;</div>
+    
+    <div class="post">
+      <h2 class="title">Microcontroller Tests</h2>
+      <div class="entry">
+        <p>
+	  The following video demonstrates what the microcontroller is capable of.
+	  First it shows that the LED is controlled by a push-on/push-off button.
+	  Then it shows that the DC motor will either rotate clockwise, rotate counter-clockwise,
+	  or halt entirely, depending on the PWM signal coming from the transmitter.
+	  The motor will halt after rotating a certain amount in either direction, and when
+	  the transmitter is turned off it rotates fully in one direction, which when implemented
+	  will fully retract the arm if the signal is lost.
+	</p>
+        <p></p>	  
+      </div>
+    </div>
+    
+    
+    <!-- microcontroller video -->
+    <embed src="videos/microcontroller_demo.mp4.AVI" height="600" width="600">
+
+  </div>  <!-- end #page -->
+
+  <hr />
+
+  <div id="footer">
+    <p>(c) 2013 University of Idaho. Design inspired by the <a href="http://www.freecsstemplates.org/preview/stargazer">Stargazer Template</a>.</p>
+  </div>
+
+</body>
+
+</html>

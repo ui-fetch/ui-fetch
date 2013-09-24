@@ -1,0 +1,14 @@
+04-30-2013
+
+-Preparation of final reports
+--Report sections assigned
+--Need to make wiring schematics for microcontroller
+
+-Transitioning to next semester
+--Thoroughly walked team through software portion for future maintainability
+
+
+Priorities:
+	Finish final reports
+	Finish updating website
+	Stow away gear for next semester

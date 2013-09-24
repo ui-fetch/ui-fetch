@@ -1,0 +1,10 @@
+02-07-2013
+
+-Arm Subgroup Meeting: Kora and Theora
+-Transferred branches
+-Discussed budgeting plans
+--Found a resource for plastic tubing, cut-and-hold pliers, need to 
+  get gears
+
+Priorities:
+	Research driving motors

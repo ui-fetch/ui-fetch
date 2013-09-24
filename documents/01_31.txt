@@ -1,0 +1,23 @@
+01-31-2013
+
+-General design meeting.
+--Each member of the team presented an overall design idea
+--Presentations each took about seven minutes each
+
+-Final decision
+--Arm: Cut and hold cutters, approach from top with lattice extension, controls attached to the remote controller
+--Controller: RC Controller seems best
+--Screen: goggles or small laptop?
+--Web cam mounting: Multiple small webcams
+--Copter: Hand-bult quad copter with downward extending arm
+
+subgroups:
+	web: Cable, Theora
+	quadcopter body: Brian, Cable, Elliott
+	extending arm: Eric, Theora, Kora
+
+Priorities:
+	what kind of display?
+	on the controller or a tripod? goggles?
+	how many cameras?
+	research parts: budget time

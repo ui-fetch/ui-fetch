@@ -1,0 +1,21 @@
+03-26-2013
+
+-Early Meeting between Theora and Cable
+--Status in coding micro-controller
+---Need to download mpide as compared to mplab
+---Spits out debut info at beginning
+---Examples built into software
+---Might need to download arduino package
+--Troubleshooting installation problems
+
+-Team Meeting
+--Programming meeting set for 3-27-2013 in BEL
+--Possibility for getting access to BEL
+
+-Architecture for setup
+--PIC32 in-line, or out-of-line
+--Essentially the same setup
+--Sensors: Tachometer, photo sensors, switch, or time
+
+Priorities:
+	CS students: Learn more about PWM signals

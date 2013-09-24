@@ -1,0 +1,7 @@
+02-22-2013
+
+-last pass budget/parts review
+-created code repository
+
+Priorities:
+	Get web page in line

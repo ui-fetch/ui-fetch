@@ -1,0 +1,27 @@
+04-02-2013
+
+-Programming problems
+--MPIE uses comletely different libraries
+--Eric looked at it, couldn't get it to work
+
+-Budget
+--Ordered most quadcopter parts
+--Trying to find arm parts in town
+
+-Arm design
+--Physical lego representation created for expo
+
+-Mech-E Meeting
+--McCormick Is willing to help out
+--We do pen and nk drawings, he'll help us CAD
+
+-Meetings
+--Wed, 3:30, Cable, Theora, and Kora meeting in BEL
+
+-Documentation
+--Everyone fills out a section
+
+Priorities:
+	Cable and Theora: Code external LED
+	Elliot and Brian: Budget and force estimates
+	Kora and Eric: Arm research
